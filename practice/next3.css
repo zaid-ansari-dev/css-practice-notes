@@ -1,0 +1,38 @@
+/* #navbar{
+    border:2px solid black;
+    height:80px;
+    width:900px;
+}
+a{
+    
+    display:flex;
+    justify-content:space-evenly;
+} */
+
+ul{
+    background-color:burlywood;
+    display:flex;
+    justify-content:space-evenly;
+}
+a{
+    text-decoration:none;
+    background-color:cadetblue
+}
+li{
+    list-style-type:none;
+    
+}
+.outer{
+    height:400px;
+    width:400px;
+    background-color:cornflowerblue;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.inner{
+    height:100px;
+    width:100px;
+    background-color:blueviolet;
+    /* align-self:start; it always has higher priority than align-item */
+}

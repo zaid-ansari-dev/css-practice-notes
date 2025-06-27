@@ -1,0 +1,60 @@
+div{
+    /* background-color:aqua; */
+    font-size:2rem;
+    height:100px;
+    width:100px;
+    border:2px double;
+    display:inline-block;
+}
+
+#box2{
+    color:white;
+}
+
+body{
+    background-image: url(city.jpg);
+    background-size:cover;
+}
+#box1{
+    
+    background-image:url(gojo.png);
+    background-size:cover;
+    /* background-repeat:no-repeat; */
+
+}
+#box3{
+    background-image: url(cat.jpg);
+    background-size:cover;
+}
+/* #box2{
+    position:relative;
+    top:1px;
+    left:20px;
+    color:white;
+    z-index:1;
+}
+
+#box3{
+    /* position:static; */
+    /* position:relative;
+    top:0px;
+    left:0px;    
+
+} */
+
+/* #box1{
+    position:fixed;
+    right:0px;
+    bottom:0px;
+    width:100%;
+    text-align:center;
+}
+
+h1{
+    text-align:center;
+}
+
+#box4{ 
+    position:relative;
+    left:110px;
+} */ 

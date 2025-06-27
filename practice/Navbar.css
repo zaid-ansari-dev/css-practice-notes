@@ -1,0 +1,37 @@
+/* div{
+    height:100px;
+    width:100px;
+    margin:25px;
+    padding:25px;
+    display:inline-block;
+} */
+.contentbox{
+    height:100px;
+    width:100px;
+ }
+
+ #navbar{
+    
+    background-color:black;
+ }
+ .yelo{
+    font-size:25px;
+ }
+ a{
+    color:white;
+    margin-right:200px;
+    text-decoration:none;
+ }
+ .contentbox{
+    border:2px dotted black;
+    display:inline-block;
+ }
+ footer{
+    background-color:black;
+    text-align:center;
+    color:white;
+ }
+
+ #content{
+    height:500px;
+ }

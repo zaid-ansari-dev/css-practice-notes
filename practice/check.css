@@ -1,0 +1,32 @@
+div{text-align:center;
+    height:100px;
+    width:100px;
+    /* border-radius:50%; */
+    position:absolute;
+    background-color:yellow;
+    color:red;
+    top:50px;
+    left:50px;
+    border:2px solid black;
+    /* animation-name:anime;
+    animation-duration:1s;
+    animation-timing-function:ease-in;
+    animation-delay:0s;
+    animation-iteration-count:infinite;
+    animation-direction:alternate; */
+    animation:anime 1s linear 0s infinite alternate;
+}
+
+@keyframes anime{
+    from{left:0px;
+    background-color:yellow;
+    font-size:1em;}
+    50%{
+        font-size:4em;
+        bord
+    }
+    to{left:200px;
+    background-color:red;
+    color:yellow;
+    font-size:2em;}
+}

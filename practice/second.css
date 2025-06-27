@@ -1,0 +1,36 @@
+h1{
+    height: 200px;
+    width: 200px; 
+    background-color:aqua;
+    /* border-width: 5px;
+    border-style:double;
+    border-color:brown; */
+    border: 7px brown double;
+    text-align:center;
+    /* border-radius:50%; */
+    padding-left:25px;
+    /* padding-bottom:25px; */
+    padding-top:25px;
+    margin:100px;
+
+    
+
+}
+
+#b{
+    height: 100px;
+    width:100px;
+    background-color:chocolate;
+    text-align:center;
+    padding: 25px
+    
+}
+
+#a{
+    height: 100px;
+    width:100px;
+    background-color:chocolate;
+    text-align:center;
+    padding: 4px 2px 3px 4px;
+    
+}

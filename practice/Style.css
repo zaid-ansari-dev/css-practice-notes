@@ -1,0 +1,131 @@
+h2{
+    color:green;
+}
+
+p{
+    color:blueviolet;
+}
+
+button{
+    color:rgb(29, 51, 8);
+    background-color:coral;
+}
+
+body{
+    background-color:rgb(71,10,10);
+}
+
+/* *{
+    color: pink;
+} */
+
+#headingone{
+    color:darkolivegreen;
+}
+#headingtwo{
+    color:aqua;
+}
+
+.myclass{
+    color:darksalmon;
+}
+#myclass{
+    background-color: blue;
+    color:aliceblue;
+}
+
+.heading{
+    background-color: yellow;
+}
+/* 
+h4, h5, h6{
+    background: yellow;
+} */
+
+button{
+    background-color:green;
+}
+
+ h1{
+    text-align : center;
+    text-decoration:line-through;
+}
+
+p{
+    text-decoration: red underline;
+}
+
+a{
+    text-decoration: none;
+}
+
+#hy1{                         
+    font-weight: lighter;
+}
+
+#hy2{
+    font-weight: normal;
+}
+
+#hy3{
+    font-weight:bold;
+}
+
+#hy4{
+    font-weight:bolder;
+}
+
+/* #hy1{
+    font-weight: 100;
+}
+
+#hy2{
+    font-weight: 300;
+}
+
+#hy3{
+    font-weight:600;
+}
+
+#hy4{
+    font-weight:900;
+} */
+
+#two{
+    font-family:cursive;
+}
+
+#three{
+    font-size: 35px;
+}
+
+#five{
+    line-height: 50px;
+    /* line-height: normal; */
+    /* text-transform: uppercase; */
+    text-transform: capitalize;
+    /* text-transform: none; */
+}
+
+#six{
+    text-align : center;
+    text-transform:capitalize;
+    color:chartreuse;
+}
+
+#booy{
+    font-family:'Times New Roman', Times, serif;
+}
+
+#outer{
+    font-size: 25px;
+}
+#inner{
+    font-size:10px;
+}
+
+#hel{
+    width: 200px;
+    height: 50px;
+    background-color: burlywood;
+}

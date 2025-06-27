@@ -1,0 +1,24 @@
+body{
+    background-color:rgb(232,241,212);
+}
+div{
+    text-align:center;
+    height:500px;
+    width:500px;
+    position:absolute;
+    border-radius:50%;
+    background-color:rgb(232,241,212);
+    border:20px red solid;
+    border-top:20px solid rgb(232,241,212);
+    left:100px;
+    top:100px;
+    animation:anime 1s linear 0s infinite normal;
+}
+@keyframes anime{
+    from{
+        rotate:0deg;
+    }
+    to{
+        rotate:360deg;
+    }
+}
